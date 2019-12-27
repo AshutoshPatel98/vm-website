@@ -45,6 +45,35 @@ button:hover{
     padding-top: 2%;
     padding-bottom: 5%;
 }
+.workshop{
+    font-family: "quicksand", sans-serif;
+    font-weight: 600;
+}
+.work{
+    box-shadow:5px 5px 5px 5px #adadad;
+}
+.ttt{
+    padding-top: 5%;
+}
+.tttcont{
+    font-family: "quicksand", sans-serif;
+    font-weight: 600;
+}
+.cont{
+    font-family: "quicksand", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+.butt{
+    background-color: orange;
+    color: white;
+}
+.b{
+    padding-top: 2%;
+    margin-top: 2%;
+    font-family: "quicksand", sans-serif;
+    font-size: 18px;
+}
 .about2{
     padding-top: 5%;
 }
