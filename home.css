@@ -30,6 +30,19 @@
 .button1:hover{
     background-color: white;
 }
+.button3{
+    padding: 9px 25px;
+    color: white;
+    background-color: #0D6FCF;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+.button3:hover{
+    background-color: greenyellow;
+    color: black;
+}
 .about{
     padding-top: 10%;
     background-color:rgb(255, 153, 0);
