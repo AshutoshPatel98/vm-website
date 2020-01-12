@@ -30,3 +30,27 @@
 button:hover{
     background-color: white;
 }
+.spons{
+    padding-top: 3%;
+    font-family: "quicksand",sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+.text{
+    font-family: "quicksand",sans-serif;
+    font-weight: 700;
+    font-size:25px;
+}
+.fab{
+    padding: 2% 0%;
+}
+footer{
+    background-image:url(../Images/Background.jpg) ;
+}
+li:hover{
+    color:#0D6FCF ;
+}
+.logo{
+    height: 100px;
+    width: auto;
+}
